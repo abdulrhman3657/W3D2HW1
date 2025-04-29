@@ -400,6 +400,8 @@ span{
 
         padding-left: 50px;
 
+        gap: 3px;
+
         grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
 
         /* padding-bottom: 20px; */
